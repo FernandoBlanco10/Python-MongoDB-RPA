@@ -1,0 +1,71 @@
+Cliente,Producto,Ciudad,Total,Tipo_Pago,Cantidad
+Andres Vega,Proyector,Toluca,19260,Efectivo,4
+Daniela Ruiz,Audifonos,Guadalajara,38098,Transferencia,2
+Gabriela Pineda,Laptop,Puebla,5025,Efectivo,1
+Jose Ramirez,Pantalla LED,Queretaro,19776,Tarjeta de debito,2
+Hector Flores,Altavoz Bluetooth,Tijuana,18364,Efectivo,4
+Patricia Cruz,Altavoz Bluetooth,Ciudad de Mexico,15040,Tarjeta de credito,4
+Jose Ramirez,Altavoz Bluetooth,Guadalajara,48300,Tarjeta de debito,3
+Jose Ramirez,Microfono,Queretaro,5103,Efectivo,3
+Laura Morales,Smartwatch,Queretaro,14820,Efectivo,4
+Gabriela Pineda,Smartphone,Leon,49755,Efectivo,5
+Ricardo Navarro,Tablet,Tijuana,57725,Efectivo,5
+Andres Vega,Monitor,Queretaro,68788,Tarjeta de debito,4
+Juan Perez,Memoria USB,Merida,55876,Tarjeta de credito,4
+Maria Lopez,Audifonos,Monterrey,67252,Tarjeta de credito,4
+Carmen Rojas,Smartwatch,Monterrey,53615,Efectivo,5
+Gabriela Pineda,Teclado,Toluca,38108,Transferencia,4
+Maria Lopez,Mouse,Leon,19910,Tarjeta de debito,5
+Raul Jimenez,Audifonos,Merida,38526,Efectivo,2
+Jose Ramirez,Microfono,Leon,17398,Tarjeta de credito,2
+Hector Flores,Smartwatch,Merida,96765,Tarjeta de debito,5
+Juan Perez,Audifonos,Leon,11952,Tarjeta de debito,3
+Ricardo Navarro,Pantalla LED,Puebla,65504,Efectivo,4
+Carlos Garcia,Altavoz Bluetooth,Merida,8650,Tarjeta de debito,1
+Hector Flores,Mouse,Merida,72995,Efectivo,5
+Lucia Gomez,Cargador,Leon,14816,Transferencia,2
+Juan Perez,Audifonos,Puebla,2155,Efectivo,1
+Jose Ramirez,Impresora,Monterrey,74400,Tarjeta de debito,4
+Raul Jimenez,Router WiFi,Queretaro,32706,Transferencia,3
+Sofia Martinez,Proyector,Leon,10109,Tarjeta de credito,1
+Lucia Gomez,Smartphone,Puebla,94940,Tarjeta de credito,5
+Andres Vega,Teclado,Merida,4594,Efectivo,2
+Jose Ramirez,Pantalla LED,Leon,26370,Tarjeta de credito,2
+Silvia Ortega,SSD,Puebla,10432,Transferencia,2
+Jose Ramirez,Cargador,Queretaro,97920,Tarjeta de debito,5
+Maria Lopez,SSD,Leon,23852,Tarjeta de debito,2
+Andres Vega,Laptop,Tijuana,62895,Efectivo,5
+Maria Lopez,Microfono,Queretaro,13800,Efectivo,2
+Javier Soto,Smartphone,Monterrey,21112,Efectivo,4
+Jose Ramirez,Monitor,Guadalajara,15340,Transferencia,5
+Lucia Gomez,Microfono,Leon,17379,Tarjeta de debito,3
+Ana Torres,Smartphone,Tijuana,72495,Tarjeta de credito,5
+Juan Perez,Smartwatch,Cancun,75095,Efectivo,5
+Daniela Ruiz,Camara,Tijuana,19456,Tarjeta de debito,1
+Juan Perez,Mouse,Toluca,18857,Efectivo,1
+Patricia Cruz,Teclado,Queretaro,24495,Transferencia,5
+Jose Ramirez,Smartwatch,Tijuana,93850,Tarjeta de debito,5
+Patricia Cruz,Disco Duro,Merida,2505,Transferencia,3
+Jose Ramirez,Monitor,Monterrey,29652,Efectivo,2
+Ana Torres,Audifonos,Toluca,11701,Efectivo,1
+Carlos Garcia,Proyector,Cancun,24658,Transferencia,2
+Luis Hernandez,Pantalla LED,Tijuana,24150,Tarjeta de credito,3
+Luis Hernandez,Audifonos,Monterrey,24444,Tarjeta de credito,3
+Andres Vega,Teclado,Ciudad de Mexico,15750,Efectivo,5
+Luis Hernandez,Consola de videojuegos,Guadalajara,94695,Transferencia,5
+Jose Ramirez,Smartphone,Cancun,33974,Transferencia,2
+Ricardo Navarro,Cargador,Cancun,74884,Transferencia,4
+Javier Soto,Mouse,Queretaro,18150,Efectivo,2
+Ricardo Navarro,Memoria USB,Ciudad de Mexico,64640,Transferencia,4
+Silvia Ortega,Microfono,Toluca,71908,Tarjeta de credito,4
+Lucia Gomez,Cargador,Puebla,2133,Efectivo,1
+Lucia Gomez,Smartwatch,Toluca,63240,Tarjeta de debito,4
+Carmen Rojas,Router WiFi,Leon,37478,Transferencia,2
+Carmen Rojas,Consola de videojuegos,Merida,901,Transferencia,1
+Juan Perez,Smartphone,Leon,12344,Tarjeta de credito,4
+Gabriela Pineda,Microfono,Leon,52648,Efectivo,4
+Patricia Cruz,Mouse,Cancun,17823,Tarjeta de credito,1
+Raul Jimenez,Consola de videojuegos,Ciudad de Mexico,40410,Tarjeta de debito,3
+Daniela Ruiz,Pantalla LED,Puebla,5450,Efectivo,5
+Lucia Gomez,Cargador,Guadalajara,46396,Efectivo,4
+Carlos Garcia,Audifonos,Toluca,4175,Tarjeta de debito,5
