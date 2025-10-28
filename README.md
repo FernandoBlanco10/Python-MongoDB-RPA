@@ -51,6 +51,6 @@ Proporcionar una solución modular que permita:
   "inicio": "2025-10-28T09:30:00",
   "fin": "2025-10-28T09:34:15",
   "duracion_segundos": 255,
-  "archivo_encontrado": "usuarios.csv",
+  "archivo_encontrado": True,
   "estado": "OK"
 }
